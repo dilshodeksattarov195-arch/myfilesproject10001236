@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterperify",
+        "uuid": 700812,
+        "checksum": "mfmypw"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
